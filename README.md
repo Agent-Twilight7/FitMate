@@ -64,11 +64,7 @@ Once you have installed the necessary dependencies, run the app with the followi
 npm run develop
 ```
 
-You can then access the app in your browser at: (Currently not available)
 
-👉 [FitMate Live App](https://FitMate-mlvj.onrender.com)
-
----
 
 
 
